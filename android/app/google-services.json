@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509293898272",
+    "project_id": "y-guide",
+    "storage_bucket": "y-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509293898272:android:42d1e15c3cc3ab623aaa45",
+        "android_client_info": {
+          "package_name": "com.app.y_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509293898272-0umbvicd7pv94re2cci012icq0tp2esl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV0MZVc5FljmZbXSAr4Lyy9O9BpJSMGSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509293898272-0umbvicd7pv94re2cci012icq0tp2esl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
